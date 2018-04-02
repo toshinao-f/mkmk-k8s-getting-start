@@ -35,4 +35,4 @@ Kubernetesに興味のある方、入門 Kubernetesを買ってしまった方�
 - ノートPC（任意、コマンドを試すときにあると便利）
 
 ## 開催日程(仮)
-- [(#1) 4/10 18:30-20:30](https://github.com/toshinao-f/reading-k8s-getting-start.wiki.git)
+- [(#1) 4/10 18:30-20:30](https://github.com/toshinao-f/reading-k8s-getting-start/wiki/(%231))
