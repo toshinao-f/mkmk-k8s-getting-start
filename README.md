@@ -36,3 +36,4 @@ Kubernetesに興味のある方、入門 Kubernetesを買ってしまった方�
 
 ## 開催日程
 - [(#1) 4/10 19:00-20:30](https://github.com/toshinao-f/reading-k8s-getting-start/wiki/(%231))
+- [(#2) 調整中](https://github.com/toshinao-f/reading-k8s-getting-start/wiki/%28%232%29)
