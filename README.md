@@ -7,8 +7,8 @@ Kubernetesに興味のある方、入門 Kubernetesを買ってしまった方�
 
 ## 読む対象の本
 [O'Reilly Japan出版 入門 Kubernetes](https://www.oreilly.co.jp/books/9784873118406/#toc)
-- 1章　kubernetes入門　（第一回 読了）
-- 2章　コンテナの作成と起動　（第一回 読了）
+- 1章　kubernetes入門　（第一回 【読了】）
+- 2章　コンテナの作成と起動　（第一回 【読了】）
 - 3章　Kubernetesクラスタのデプロイ　（第二回）
 - 4章　よく使う kubectlコマンド　（第二回）
 - 5章　Pod　（第二回）
