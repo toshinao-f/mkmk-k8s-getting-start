@@ -7,21 +7,21 @@ Kubernetesに興味のある方、入門 Kubernetesを買ってしまった方�
 
 ## 読む対象の本
 [O'Reilly Japan出版 入門 Kubernetes](https://www.oreilly.co.jp/books/9784873118406/#toc)
-- 1章　kubernetes入門　（第一回 【読了】）
-- 2章　コンテナの作成と起動　（第一回 【読了】）
-- 3章　Kubernetesクラスタのデプロイ　（第二回）
-- 4章　よく使う kubectlコマンド　（第二回）
-- 5章　Pod　（第二回）
-- 6章　Labelと Annotation
-- 7章　サービスディスカバリ
-- 8章　ReplicaSet
-- 9章　DaemonSet
-- 10章　Job
-- 11章　ConfigMapと Secret
-- 12章　Deployment
-- 13章　ストレージソリューションとKubernetesの統合
-- 14章　実用的なアプリケーションのデプロイ
-- 付録A　Raspberry.Piを使った Kubernetesクラスタ構築
+- [x] 【第一回】1章　kubernetes入門
+- [x] 【第一回】2章　コンテナの作成と起動
+- [ ] 【第二回】3章　Kubernetesクラスタのデプロイ
+- [ ] 【第二回】4章　よく使う kubectlコマンド
+- [ ] 【第二回】5章　Pod
+- [ ] 6章　Labelと Annotation
+- [ ] 7章　サービスディスカバリ
+- [ ] 8章　ReplicaSet
+- [ ] 9章　DaemonSet
+- [ ] 10章　Job
+- [ ] 11章　ConfigMapと Secret
+- [ ] 12章　Deployment
+- [ ] 13章　ストレージソリューションとKubernetesの統合
+- [ ] 14章　実用的なアプリケーションのデプロイ
+- [ ] 付録A　Raspberry.Piを使った Kubernetesクラスタ構築
 
 ## 対象者
 - Kubernetesに興味がある方
