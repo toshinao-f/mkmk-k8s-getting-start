@@ -9,9 +9,9 @@ Kubernetesに興味のある方、入門 Kubernetesを買ってしまった方�
 [O'Reilly Japan出版 入門 Kubernetes](https://www.oreilly.co.jp/books/9784873118406/#toc)
 - [x] 【第一回】1章　kubernetes入門
 - [x] 【第一回】2章　コンテナの作成と起動
-- [ ] 【第二回】3章　Kubernetesクラスタのデプロイ
-- [ ] 【第二回】4章　よく使う kubectlコマンド
-- [ ] 【第二回】5章　Pod
+- [x] 【第二回】3章　Kubernetesクラスタのデプロイ
+- [x] 【第二回】4章　よく使う kubectlコマンド
+- [ ] 【第三回】【第二回】5章　Pod
 - [ ] 6章　Labelと Annotation
 - [ ] 7章　サービスディスカバリ
 - [ ] 8章　ReplicaSet
@@ -37,3 +37,5 @@ Kubernetesに興味のある方、入門 Kubernetesを買ってしまった方�
 ## 開催日程
 - [(#1) 4/10 19:00-20:30](https://github.com/toshinao-f/reading-k8s-getting-start/wiki/(%231))
 - [(#2) 4/18 18:30-20:30](https://github.com/toshinao-f/reading-k8s-getting-start/wiki/%28%232%29)
+- [(#3) 4/25 19:30-21:30](https://github.com/toshinao-f/reading-k8s-getting-start/wiki/%28%233%29)
+
