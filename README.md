@@ -11,10 +11,10 @@ Kubernetesに興味のある方、入門 Kubernetesを買ってしまった方�
 - [x] 【第一回】2章　コンテナの作成と起動
 - [x] 【第二回】3章　Kubernetesクラスタのデプロイ
 - [x] 【第二回】4章　よく使う kubectlコマンド
-- [ ] 【第三回】【第二回】5章　Pod
-- [ ] 6章　Labelと Annotation
-- [ ] 7章　サービスディスカバリ
-- [ ] 8章　ReplicaSet
+- [x] 【第三回】【第二回】5章　Pod
+- [ ] 【第四回】6章　Labelと Annotation
+- [ ] 【第四回】7章　サービスディスカバリ
+- [ ] 【第四回】8章　ReplicaSet
 - [ ] 9章　DaemonSet
 - [ ] 10章　Job
 - [ ] 11章　ConfigMapと Secret
@@ -38,4 +38,5 @@ Kubernetesに興味のある方、入門 Kubernetesを買ってしまった方�
 - [(#1) 4/10 19:00-20:30](https://github.com/toshinao-f/reading-k8s-getting-start/wiki/(%231))
 - [(#2) 4/18 18:30-20:30](https://github.com/toshinao-f/reading-k8s-getting-start/wiki/%28%232%29)
 - [(#3) 4/25 19:30-21:30](https://github.com/toshinao-f/reading-k8s-getting-start/wiki/%28%233%29)
+- [(#4) 5/9 18:30-20:30](https://github.com/toshinao-f/reading-k8s-getting-start/wiki/%28%234%29)
 
