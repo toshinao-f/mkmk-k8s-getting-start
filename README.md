@@ -12,10 +12,10 @@ Kubernetesに興味のある方、入門 Kubernetesを買ってしまった方�
 - [x] 【第二回】3章　Kubernetesクラスタのデプロイ
 - [x] 【第二回】4章　よく使う kubectlコマンド
 - [x] 【第三回】【第二回】5章　Pod
-- [ ] 【第四回】6章　Labelと Annotation
-- [ ] 【第四回】7章　サービスディスカバリ
-- [ ] 【第四回】8章　ReplicaSet
-- [ ] 9章　DaemonSet
+- [x] 【第四回】6章　Labelと Annotation
+- [x] 【第四回】7章　サービスディスカバリ
+- [ ] 【第五回】8章　ReplicaSet
+- [ ] 【第五回】9章　DaemonSet
 - [ ] 10章　Job
 - [ ] 11章　ConfigMapと Secret
 - [ ] 12章　Deployment
