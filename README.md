@@ -14,10 +14,10 @@ Kubernetesに興味のある方、入門 Kubernetesを買ってしまった方�
 - [x] 【第三回】【第二回】5章　Pod
 - [x] 【第四回】6章　Labelと Annotation
 - [x] 【第四回】7章　サービスディスカバリ
-- [ ] 【第五回】8章　ReplicaSet
-- [ ] 【第五回】9章　DaemonSet
-- [ ] 10章　Job
-- [ ] 11章　ConfigMapと Secret
+- [x] 【第五回】8章　ReplicaSet
+- [x] 【第五回】9章　DaemonSet
+- [ ] 【第六回】10章　Job
+- [ ] 【第六回】11章　ConfigMapと Secret
 - [ ] 12章　Deployment
 - [ ] 13章　ストレージソリューションとKubernetesの統合
 - [ ] 14章　実用的なアプリケーションのデプロイ
@@ -40,4 +40,5 @@ Kubernetesに興味のある方、入門 Kubernetesを買ってしまった方�
 - [(#3) 4/25 19:30-21:30](https://github.com/toshinao-f/reading-k8s-getting-start/wiki/%28%233%29)
 - [(#4) 5/9 18:30-20:30](https://github.com/toshinao-f/reading-k8s-getting-start/wiki/%28%234%29)
 - [(#5) 5/16 18:30-20:30](https://github.com/toshinao-f/reading-k8s-getting-start/wiki/%28%235%29)
+- [(#6) 調整中]()
 
