@@ -16,8 +16,8 @@ Kubernetesに興味のある方、入門 Kubernetesを買ってしまった方�
 - [x] 【第四回】7章　サービスディスカバリ
 - [x] 【第五回】8章　ReplicaSet
 - [x] 【第五回】9章　DaemonSet
-- [ ] 【第六回】10章　Job
-- [ ] 【第六回】11章　ConfigMapと Secret
+- [x] 【第六回】10章　Job
+- [ ] 【第七回】11章　ConfigMapと Secret
 - [ ] 12章　Deployment
 - [ ] 13章　ストレージソリューションとKubernetesの統合
 - [ ] 14章　実用的なアプリケーションのデプロイ
