@@ -18,7 +18,7 @@ Kubernetesに興味のある方、入門 Kubernetesを買ってしまった方�
 - [x] 【第五回】9章　DaemonSet
 - [x] 【第六回】10章　Job
 - [ ] 【第七回】11章　ConfigMapと Secret
-- [ ] 12章　Deployment
+- [ ] 【第七回】12章　Deployment
 - [ ] 13章　ストレージソリューションとKubernetesの統合
 - [ ] 14章　実用的なアプリケーションのデプロイ
 - [ ] 付録A　Raspberry.Piを使った Kubernetesクラスタ構築
@@ -41,4 +41,5 @@ Kubernetesに興味のある方、入門 Kubernetesを買ってしまった方�
 - [(#4) 5/9 18:30-20:30](https://github.com/toshinao-f/reading-k8s-getting-start/wiki/%28%234%29)
 - [(#5) 5/16 18:30-20:30](https://github.com/toshinao-f/reading-k8s-getting-start/wiki/%28%235%29)
 - [(#6) 5/24 18:30-20:30](https://github.com/toshinao-f/reading-k8s-getting-start/wiki/%28%236%29)
+- [(#7) 6/5 18:30-20:30](https://github.com/toshinao-f/reading-k8s-getting-start/wiki/(%237))
 
