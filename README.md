@@ -20,7 +20,7 @@ Kubernetesに興味のある方、入門 Kubernetesを買ってしまった方�
 - [x] 【第七回】11章　ConfigMapと Secret
 - [x] 【第七回】12章　Deployment
 - [x] 【第八回】13章　ストレージソリューションとKubernetesの統合
-- [ ] 【第九回】14章　実用的なアプリケーションのデプロイ
+- [x] 【第九回】14章　実用的なアプリケーションのデプロイ
 - [ ] 【第九回】付録A　Raspberry.Piを使った Kubernetesクラスタ構築
 
 ## 対象者
